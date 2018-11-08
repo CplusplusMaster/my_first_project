@@ -1,6 +1,0 @@
-my first text file.
-
-
-Hello world
-
-Good bye world
